@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 12139916
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "coins"
+coins += 1;
+
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 0D89F67A
