@@ -91,8 +91,8 @@
           8,59,-2147483648,0,-2147483648,0,-2147483648,-2147483648,0,-4,-2147483648,-9,0,-5,-2147483648,-11,0,
           -3,-2147483648,8,59,-2147483648,0,-2147483648,0,-2147483648,-2147483648,0,-4,-2147483648,-9,0,-5,-2147483648,
           -2,0,2,1,3,-4,0,20,-2147483648,0,0,1,2,38,38,0,38,0,3,0,0,37,38,3,0,-2147483648,28,101,-7,38,4,29,38,
-          38,3,-9,0,1,65,-12,0,5,49,50,15,0,-2147483648,-12,50,1,28,-8,29,1,3,-13,0,6,49,50,28,3,-2147483648,50,
-          -20,14,1,64,-13,38,1,66,-3,14,1,-2147483648,
+          38,3,-3,0,2,13,15,-4,0,1,65,-4,0,4,26,0,0,26,-4,0,5,49,50,15,0,-2147483648,-12,50,1,28,-8,29,1,3,-13,
+          0,6,49,50,28,3,-2147483648,50,-20,14,1,64,-13,38,1,66,-3,14,1,-2147483648,
         ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet_Ground","path":"tilesets/TileSet_Ground/TileSet_Ground.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRTileLayer":"","%Name":"Tiles_Ground","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_Ground","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":16,"SerialiseWidth":40,"TileCompressedData":[
           -134,-2147483648,1,1,-3,2,1,3,-35,-2147483648,5,13,4,5,6,15,-35,-2147483648,5,13,16,-2147483648,18,15,
